@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning vue3, typescript, echarts, three.js
 - 💞️ I hope to achieve more projects of my own in the future
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robert-jx&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robert-jx&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 robert-jx/robert-jx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
